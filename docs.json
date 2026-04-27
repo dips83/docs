@@ -1,11 +1,11 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "name": "Foryoueats",
-  "theme": "almond",
+  "theme": "aspen",
   "colors": {
-    "primary": "#8c8c8d",
-    "light": "#282d2c",
-    "dark": "#e8e7e8"
+    "primary": "#4a8077",
+    "light": "#4a8077",
+    "dark": "#4a8077"
   },
   "favicon": "https://media.brand.dev/981f7644-55fc-46fb-ab4f-22d11fbfaa27.webp",
   "navbar": {
@@ -62,5 +62,24 @@
       "family": "Figtree"
     }
   },
-  "logo": "/images/avatar-logo-512.webp"
+  "logo": {
+    "light": "/images/avatar-logo-512.webp",
+    "dark": "/images/avatar-logo-512.webp"
+  },
+  "background": {
+    "color": {
+      "light": "#fbfaf8",
+      "dark": "#212024"
+    }
+  },
+  "fonts": {
+    "family": "Figtree",
+    "weight": 400
+  },
+  "styling": {
+    "eyebrows": "section"
+  },
+  "appearance": {
+    "strict": false
+  }
 }
