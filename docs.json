@@ -63,7 +63,7 @@
     }
   },
   "logo": {
-    "light": "/images/avatar-logo-512.webp",
+    "light": "/images/logo-transparent.png",
     "dark": "/images/avatar-logo-512.webp"
   },
   "background": {
