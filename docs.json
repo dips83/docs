@@ -63,8 +63,8 @@
     }
   },
   "logo": {
-    "light": "/images/logo-transparent.png",
-    "dark": "/images/avatar-logo-512.webp"
+    "light": "/images/light-avatar-logo-512.png",
+    "dark": "/images/avatar-logo-512.png"
   },
   "background": {
     "color": {
