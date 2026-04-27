@@ -1,0 +1,66 @@
+{
+  "$schema": "https://mintlify.com/docs.json",
+  "name": "Foryoueats",
+  "theme": "almond",
+  "colors": {
+    "primary": "#8c8c8d",
+    "light": "#282d2c",
+    "dark": "#e8e7e8"
+  },
+  "favicon": "https://media.brand.dev/981f7644-55fc-46fb-ab4f-22d11fbfaa27.webp",
+  "navbar": {
+    "primary": {
+      "type": "button",
+      "label": "Get Started Free",
+      "href": "https://foryoueats.com/register"
+    }
+  },
+  "navigation": {
+    "groups": [
+      {
+        "group": "Get Started",
+        "pages": [
+          "introduction",
+          "getting-started/create-account",
+          "getting-started/get-the-app"
+        ]
+      },
+      {
+        "group": "Recipes",
+        "pages": [
+          "recipes/import-from-url",
+          "recipes/import-from-image",
+          "recipes/create-manually",
+          "recipes/bulk-import",
+          "recipes/organize"
+        ]
+      },
+      {
+        "group": "Features",
+        "pages": [
+          "features/meal-planner",
+          "features/shopping-lists",
+          "features/cookbooks",
+          "features/pantry-manager",
+          "features/community"
+        ]
+      },
+      {
+        "group": "Help",
+        "pages": [
+          "help/faq",
+          "help/contact"
+        ]
+      }
+    ]
+  },
+  "font": {
+    "headings": {
+      "family": "Figtree"
+    },
+    "body": {
+      "family": "Figtree"
+    }
+  },
+  "logo": "/images/avatar-logo-512.webp"
+}

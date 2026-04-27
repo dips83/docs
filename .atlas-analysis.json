@@ -1,0 +1,75 @@
+{
+  "projectType": "saas",
+  "projectName": "Foryoueats",
+  "projectDescription": "A completely free recipe manager with unlimited storage, meal planning, shopping lists, and community recipe discovery for home cooks.",
+  "theme": "almond",
+  "primaryColor": "#8c8c8d",
+  "lightColor": "#282d2c",
+  "darkColor": "#e8e7e8",
+  "navigation": {
+    "groups": [
+      {
+        "group": "Get Started",
+        "pages": [
+          "introduction",
+          "getting-started/create-account",
+          "getting-started/get-the-app"
+        ]
+      },
+      {
+        "group": "Recipes",
+        "pages": [
+          "recipes/import-from-url",
+          "recipes/import-from-image",
+          "recipes/create-manually",
+          "recipes/bulk-import",
+          "recipes/organize"
+        ]
+      },
+      {
+        "group": "Features",
+        "pages": [
+          "features/meal-planner",
+          "features/shopping-lists",
+          "features/cookbooks",
+          "features/pantry-manager",
+          "features/community"
+        ]
+      },
+      {
+        "group": "Help",
+        "pages": [
+          "help/faq",
+          "help/contact"
+        ]
+      }
+    ]
+  },
+  "keyFeatures": [
+    "Import recipes from any website with one click",
+    "Create recipes from photos using AI image recognition",
+    "Unlimited free recipe storage",
+    "Full-featured meal planner",
+    "Collaborative shopping lists with Pantry Pals",
+    "Cookbooks for organizing and sharing recipes",
+    "Automated nutritional data calculation",
+    "Bulk import from Plan To Eat, Copy Me That, Paprika, and Recipe Keeper",
+    "Community recipe discovery",
+    "Private, friends-only, or public recipe sharing",
+    "Chrome browser extension for easy importing",
+    "Available on iOS, Android, and web"
+  ],
+  "publicApiSurface": [
+    "Recipe import via URL",
+    "Recipe import via image/photo",
+    "Manual recipe creation",
+    "Bulk import (CSV, ZIP formats)",
+    "Meal planner",
+    "Shopping list creation and sharing",
+    "Cookbook creation and sharing",
+    "Pantry manager",
+    "Community recipe discovery and browsing",
+    "Social login (Google, Facebook, Apple)",
+    "Recipe privacy controls (private / friends / public)"
+  ]
+}
